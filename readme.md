@@ -23,8 +23,9 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Screen Shot
-
+![output screen](./assets/images/Capture.PNG)
 ## Github Link:
 https://github.com/Mosaleh-Egy/Work-Day-Scheduler
 
 ## Live Link:
+https://mosaleh-egy.github.io/Work-Day-Scheduler/
